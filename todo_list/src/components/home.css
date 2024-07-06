@@ -1,0 +1,17 @@
+.quote-container {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    max-width: 600px;
+}
+.quote-container h1 {
+    font-size: 2em;
+    margin: 0;
+}
+.quote-container p {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
